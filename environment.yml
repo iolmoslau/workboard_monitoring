@@ -1,0 +1,4 @@
+name: wbmenv
+channels:
+  - defaults
+prefix: /Users/israelolmos/anaconda3/envs/wbmenv
